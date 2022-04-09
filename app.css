@@ -1,0 +1,36 @@
+body{
+    background-color: #000814;
+}
+.navbar {
+    background-color: #48cae4;
+}
+.btn{
+    background-color: #caf0f8;
+    color: black;
+}
+.btn:hover{
+    background-color: #48cae4;
+    color: whitesmoke;
+}
+#logo{
+    border: 10px solid black;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.diffcon{
+  display: flex;
+  justify-content: space-between;
+  margin-top :3px; ;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+}
+.diffcon output{
+    margin-top: 10px;
+}
+.display{
+    margin-bottom: 3px;
+}
